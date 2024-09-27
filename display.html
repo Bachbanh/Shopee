@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Cart</title>
+</head>
+<body>
+    <ul id="cart-list"></ul>
+
+    <script>
+        // Lấy dữ liệu từ máy chủ và hiển thị
+        fetch('/get-cart')
+            .then(response => response.json())
+            .then(data => {
+                let cartList = document.getElementById('cart-list');
+                cartList.innerHTML = '';
+                data.forEach(item => {
+                    let listItem = document.createElement('li');
+                    listItem.innerHTML = `
+                        <img src="${item.img}" alt="Image" style="width:100px;height:100px;">
+                        <p>Price: ${item.price}</p>
+                        <p>Count: ${item.count}</p>
+                    `;
+                    cartList.appendChild(listItem);
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+    </script>
+</body>
+</html>

@@ -74,7 +74,7 @@ body{
     width: 100%;
     padding: 4px;
     height: 120px;
-    background-image: linear-gradient(0, #ff6633, #f53e2d);
+    background-image: linear-gradient(0, #d00a1b, #d00a1b);
     z-index: 2;
 }
 
@@ -722,7 +722,7 @@ body{
 
 
 .header__search-btn-icon:hover{
-    background-color: #fe5643;
+    background-color: #d00a1b;
 }
 
 .header__search-option{

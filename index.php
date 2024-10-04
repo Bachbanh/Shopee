@@ -148,7 +148,7 @@ if (isset($_SESSION['user_id'])) {
                                             <img src="assets/img/anhthongbao.png" alt="" class="header__notify-img">
                                             <div class="header__notify-info">
                                                 <span class="header__notify-name">Gia nhập PBA thật là thích!</span>
-                                                <span class="header__notify-mota">Shopee có quà tặng bất ngờ đây: </span>
+                                                <span class="header__notify-mota">PBA có quà tặng bất ngờ đây: </span>
                                             </div>
                                         </a>
                                     </li>
@@ -1501,7 +1501,9 @@ if (isset($_SESSION['user_id'])) {
                         </div>
                         <!-- cot5  -->
                         <div class="footer-end-tong-khoi">
-                            <div class="footer-end-list-header">TẢI ỨNG DỤNG SHOPEE NGAY THÔI</div>
+
+                            <div class="footer-end-list-header">TẢI ỨNG DỤNG PBA NGAY THÔI</div>
+
                             <div class="footer-end-list-taiungdung">
                                 <div class="footer-end-list-taiungdung-qr">
                                     <a href="">
@@ -1528,7 +1530,9 @@ if (isset($_SESSION['user_id'])) {
             <!-- /* footer 2024 */ -->
             <div class="wrap-footer-2024">
                 <div class="footer-2024">
-                    <div class="footer-2024-text1">© 2024 Shopee. Tất cả các quyền được bảo lưu.</div>
+
+                    <div class="footer-2024-text1">© 2024 PBA. Tất cả các quyền được bảo lưu.</div>
+
                     <div class="footer-2024-text-list">
                         <div class="footer-2024-text-item--khac">Quốc gia & Khu vực:
                         </div>
@@ -1605,115 +1609,16 @@ if (isset($_SESSION['user_id'])) {
                             </a>
                         </div>
                     </div>
-                    <div class="footer-last-khoi-2-text">Công ty TNHH Shopee</div>
-                    <div class="footer-last-khoi-2-text-style2">Địa chỉ: Tầng 4-5-6, Tòa nhà Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội, Việt Nam. Tổng đài hỗ trợ: 19001221 - Email: cskh@hotro.shopee.vn</div>
+
+                    <div class="footer-last-khoi-2-text">Công ty TNHH PBA</div>
+                    <div class="footer-last-khoi-2-text-style2">Địa chỉ: Tầng 4-5-6, Tòa nhà Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội, Việt Nam. Tổng đài hỗ trợ: 19001221 - Email: cskh@hotro.PBA.vn</div>
                     <div class="footer-last-khoi-2-text-style2">Chịu Trách Nhiệm Quản Lý Nội Dung: Nguyễn Đức Trí -  Điện thoại liên hệ: 024 73081221 (ext 4678)</div>
                     <div class="footer-last-khoi-2-text-style2">Mã số doanh nghiệp: 0106773786 do Sở Kế hoạch & Đầu tư TP Hà Nội cấp lần đầu ngày 10/02/2015</div>
-                    <div class="footer-last-khoi-2-text-style2">© 2015 - Bản quyền thuộc về Công ty TNHH Shopee</div>
+                    <div class="footer-last-khoi-2-text-style2">© 2015 - Bản quyền thuộc về Công ty TNHH PBA</div>
+
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- Modal -->
-    <!-- <div class="modal">
-        <div class="modal__overlay"></div>
-        <div class="modal__body">
-             Đăng kí
-            <div class="auth-form">
-                <div class="auth-form__container">
-                    <div class="auth-form__header">
-                        <h3 class="auth-form__heading">Đăng kí</h3>
-                        <span class="auth-form__swich-btn">Đăng nhập</span>
-                    </div>
-
-                    <div class="auth-form__form">
-                        <div class="auth-form__group">
-                            <input type="text" class="auth-form__input" placeholder="Nhập email đăng kí">
-                        </div>
-
-                        <div class="auth-form__group">
-                            <input type="text" class="auth-form__input" placeholder="Nhập mật khẩu">
-                        </div>
-
-                        <div class="auth-form__group">
-                            <input type="text" class="auth-form__input" placeholder="Nhập lại mật khẩu">
-                        </div>
-                    </div>
-
-                    <div class="auth-form__aside">
-                        <p class="auth-form-text">
-                            Bằng việc đăng kí, bạn đã đồng ý với Shopee về
-                            <a href="" class="auth-form-link">Điều khoản dịch vụ</a> &
-                            <a href="" class="auth-form-link">Chính sách bảo mật</a>
-                        </p>
-                    </div>
-
-                    <div class="auth-form__controls">
-                        <button class="btn btn-nomal">TRỞ LẠI</button>
-                        <button class="btn btn--primary">ĐĂNG KÍ</button>
-                    </div>
-                </div>
-
-                <div class="auth-form__socials">
-                    <a href="" class="btn auth-form__socials--facebook btn--with-icon" id="fb">
-                        <i class="fa-brands fa-square-facebook" style="color: #ffffff;"></i>
-                        Kết nối với Facebook
-                    </a>
-
-                    <a href="" class="btn auth-form__socials--google btn--with-icon">
-                        <i class="fa-brands fa-google" style="color: black;"></i>
-                        Kết nối với Google
-                    </a>
-                </div>
-            </div>
-
-            Đăng nhập
-            <div class="auth-form">
-
-                <div class="auth-form__container">
-                    <div class="auth-form__header">
-                        <h3 class="auth-form__heading">Đăng nhập</h3>
-                        <span class="auth-form__swich-btn">Đăng kí</span>
-                    </div>
-
-                    <div class="auth-form__form">
-                        <div class="auth-form__group">
-                            <input type="text" class="auth-form__input" placeholder="Nhập email">
-                        </div>
-
-                        <div class="auth-form__group">
-                            <input type="text" class="auth-form__input" placeholder="Nhập mật khẩu">
-                        </div>
-                    </div>
-
-                    <div class="auth-form__aside">
-                        <div class="auth-form__help">
-                            <a href="" class="auth-form__help-link">Quên mật khẩu</a>
-                            <a href="" class="auth-form__help-link">Cần trợ giúp?</a>
-                        </div>
-                    </div>
-
-                    <div class="auth-form__controls">
-                        <button class="btn btn-nomal">TRỞ LẠI</button>
-                        <button class="btn btn--primary">ĐĂNG KÍ</button>
-                    </div>
-                </div>
-
-                <div class="auth-form__socials">
-                    <a href="" class="btn auth-form__socials--facebook btn--with-icon" id="fb">
-                        <i class="fa-brands fa-square-facebook" style="color: #ffffff;"></i>
-                        Kết nối với Facebook
-                    </a>
-
-                    <a href="" class="btn auth-form__socials--google btn--with-icon">
-                        <i class="fa-brands fa-google" style="color: black;"></i>
-                        Kết nối với Google
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- <script src="assets/js/main.js"></script> -->
 </body>
 </html>

@@ -74,7 +74,6 @@ body{
     width: 100%;
     padding: 4px;
     height: 120px;
-    background-image: linear-gradient(0, #ff6633, #f53e2d);
     background-image: linear-gradient(0, #338aff, #552df5);
     z-index: 2;
 }
@@ -724,6 +723,7 @@ body{
 
 .header__search-btn-icon:hover{
     background-color: #439dfe;
+
 }
 
 .header__search-option{

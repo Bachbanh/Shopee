@@ -118,7 +118,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 </div> -->
                             </div>
                             <div class="login-chuyen-dki">
-                                Bạn mới biết đến Shopee?  
+
+                                Bạn mới biết đến PBA
+                                ?  
+
                                 <a style="color: #EE4D2D; font-size: 1.4rem;font-weight: 500; margin-left: 6px;" href="dangki.php"> Đăng kí</a>
                             </div>
                         </div>
@@ -146,12 +149,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 </li>
                                 <li class="footer-end-item">
                                     <a href="">
-                                        <span>Shopee Blog</span>
+
+                                        <span>PBA
+                                             Blog</span>
+
                                     </a>
                                 </li>
                                 <li class="footer-end-item">
                                     <a href="">
-                                        <span>Shopee Mall</span>
+
+                                        <span>PBA
+                                             Mall</span>
+
                                     </a>
                                 </li>
                                 <li class="footer-end-item">
@@ -171,7 +180,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 </li>
                                 <li class="footer-end-item">
                                     <a href="">
-                                        <span>Shopee Xu</span>
+                                        <span>PBA
+                                             Xu</span>
+
                                     </a>
                                 </li>
                                 <li class="footer-end-item">
@@ -198,11 +209,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </div>
                         <!-- cot2  -->
                         <div class="footer-end-tong-khoi">
-                            <div class="footer-end-list-header">VỀ SHOPEE</div>
+
+                            <div class="footer-end-list-header">VỀ PBA
+                                
+                            </div>
                             <ul class="footer-end-list">
                                 <li class="footer-end-item">
                                     <a href="">
-                                        <span>Giới Thiệu Về Shopee Việt Nam</span>
+                                        <span>Giới Thiệu Về PBA
+                                             Việt Nam</span>
+
                                     </a>
                                 </li>
                                 <li class="footer-end-item">
@@ -217,7 +233,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 </li>
                                 <li class="footer-end-item">
                                     <a href="">
-                                        <span>Điều Khoản Shopee</span>
+
+                                        <span>Điều Khoản PBA
+                                            
+                                        </span>
+
                                     </a>
                                 </li>
                                 <li class="footer-end-item">
@@ -242,7 +262,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 </li>
                                 <li class="footer-end-item">
                                     <a href="">
-                                        <span>Chương Trình Tiếp Thị Liên Kết Shopee</span>
+
+                                        <span>Chương Trình Tiếp Thị Liên Kết PBA
+                                            
+                                        </span>
+
                                     </a>
                                 </li>
                                 <li class="footer-end-item">
@@ -254,7 +278,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </div>
                         <!-- cot3  -->
                         <div class="footer-end-tong-khoi">
-                            <div class="footer-end-list-header">VỀ SHOPEE</div>
+
+                            <div class="footer-end-list-header">VỀ PBA
+                                
+                            </div>
+
                             <ul class="footer-end-list-cot3">
                                 <li class="footer-end-item-cot3">
                                     <a href="">
@@ -385,7 +413,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </div>
                         <!-- cot5  -->
                         <div class="footer-end-tong-khoi">
-                            <div class="footer-end-list-header">TẢI ỨNG DỤNG SHOPEE NGAY THÔI</div>
+
+                            <div class="footer-end-list-header">TẢI ỨNG DỤNG PBA
+                                 NGAY THÔI</div>
+
                             <div class="footer-end-list-taiungdung">
                                 <div class="footer-end-list-taiungdung-qr">
                                     <a href="">
@@ -410,7 +441,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                 <!-- /* footer 2024 */ -->
                 <div style="background-color: #F5F5F5;"  class="footer-2024">
-                    <div class="footer-2024-text1">© 2024 Shopee. Tất cả các quyền được bảo lưu.</div>
+                    <div class="footer-2024-text1">© 2024 PBA
+                        . Tất cả các quyền được bảo lưu.</div>
+
                     <div class="footer-2024-text-list">
                         <div class="footer-2024-text-item--khac">Quốc gia & Khu vực:
                         </div>
@@ -486,11 +519,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                 </a>
                             </div>
                         </div>
-                        <div class="footer-last-khoi-2-text">Công ty TNHH Shopee</div>
-                        <div class="footer-last-khoi-2-text-style2">Địa chỉ: Tầng 4-5-6, Tòa nhà Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội, Việt Nam. Tổng đài hỗ trợ: 19001221 - Email: cskh@hotro.shopee.vn</div>
+
+                        <div class="footer-last-khoi-2-text">Công ty TNHH PBA
+                            
+                        </div>
+                        <div class="footer-last-khoi-2-text-style2">Địa chỉ: Tầng 4-5-6, Tòa nhà Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội, Việt Nam. Tổng đài hỗ trợ: 19001221 - Email: cskh@hotro.PBA
+                            .vn</div>
                         <div class="footer-last-khoi-2-text-style2">Chịu Trách Nhiệm Quản Lý Nội Dung: Nguyễn Đức Trí -  Điện thoại liên hệ: 024 73081221 (ext 4678)</div>
                         <div class="footer-last-khoi-2-text-style2">Mã số doanh nghiệp: 0106773786 do Sở Kế hoạch & Đầu tư TP Hà Nội cấp lần đầu ngày 10/02/2015</div>
-                        <div class="footer-last-khoi-2-text-style2">© 2015 - Bản quyền thuộc về Công ty TNHH Shopee</div>
+                        <div class="footer-last-khoi-2-text-style2">© 2015 - Bản quyền thuộc về Công ty TNHH PBA
+                            
+                        </div>
+
                     </div>
                 </div>
             </div>

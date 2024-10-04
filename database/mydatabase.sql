@@ -1,6 +1,8 @@
 -- Tạo cơ sở dữ liệu
--- CREATE DATABASE ecommerce;
--- USE ecommerce;
+DROP DATABASE ecommerce;
+
+CREATE DATABASE ecommerce;
+USE ecommerce;
 
 -- Tạo bảng User
 CREATE TABLE User (
@@ -118,5 +120,5 @@ VALUES
 (3, 4, 3),  -- Người dùng 3 thêm 3 sản phẩm 4
 (4, 5, 2);  -- Người dùng 4 thêm 2 sản phẩm 5
 
--- Xóa người dùng và tự động xóa các bản ghi liên quan trong Profile và Cart
+-- Xóa người dùng và tự động xóa các bản ghi laiên quan trong Profile và Cart
 -- Ví dụ xóa người dùng có user_id = 1

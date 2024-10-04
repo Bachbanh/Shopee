@@ -941,7 +941,7 @@ body{
     border: 1px solid var(--primary-color2); 
     color: var(--primary-color2);
     padding: 15px 20px; font-size: 14px;
-    background-color: #FFEEEA;
+    background-color: #eaf4ff;
     cursor: pointer;
 }
 
@@ -1141,7 +1141,7 @@ body{
 }
 /* icon */
 .fa-star{
-    color: #ED4D2D;
+    color: #2d4ded;
 }
 /* Footer  
 1.footer danh muc

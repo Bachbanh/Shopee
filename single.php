@@ -512,13 +512,13 @@ if (isset($_GET['product_id'])) {
             <section class="info-shop">
                 <!-- avatar-chat  -->
                 <div style="width: 574px; padding-right: 25px; border-right: 1px solid #ccc; display: flex;">
-                    <div style="width: 100px;"><img style="width: 80%;" src="assets/img/logo-icon2.png" alt=""></div>
+                    <div style="width: 100px; position: relative;"><img style="width: 157%; position: absolute; left: -47px;" src="assets/img/logo2.png" alt=""></div>
                     <div style="font-size: 16px;">
                         <div>PKA.vn</div>
                         <div style="font-size: 14px; margin-top: 2px;">Online 1 phút trước</div>
                         <div>
                             <div style="display: flex; margin-top: 10px;">
-                                <div style="border: 1px solid var(--primary-color2); color: var(--primary-color2);padding: 10px 13px; font-size: 14px;cursor: pointer;background-color: #FFEEEA; margin-top: 14px; margin-right: 15px;">
+                                <div style="border: 1px solid var(--primary-color2); color: var(--primary-color2);padding: 10px 13px; font-size: 14px;cursor: pointer;background-color: #eaf4ff; margin-top: 14px; margin-right: 15px;">
                                     <i class="fa-solid fa-comment" style="color: var(--primary-color2);"></i>
                                     <span>Chat Ngay</span>
                                 </div>

@@ -71,9 +71,6 @@ if (isset($_GET['product_id'])) {
     <link rel="stylesheet" href="assets/css/login.css">
     <link rel="stylesheet" href="assets/css/single.css">
     <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/icon_favicon_1_32.0Wecxv.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/icon_favicon_1_96.wI1aMs.png">
-    <!-- <script>showTrangSingle()</script> -->
 </head>
 <body>
     <div class="app">

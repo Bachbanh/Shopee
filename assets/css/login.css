@@ -33,21 +33,20 @@
 .login-header-box-text{
     font-size: 15px;
     color: #222;
-    line-height: 52px;
-    margin-left: 80px;
+    line-height: 84px;
 }
 
 .login-header-box-text-help{
-    color: #EE4D2D;
+    color: var(--primary-color);
     font-size: 14px;
-    line-height: 52px;
+    line-height: 84px;
     margin-left: 737px ;
 }
 
 /* Login content  */
 .login-content{
 
-    background-color: #d0011b;
+    background-color: #CBEEFC;
 
 }
 
@@ -55,9 +54,10 @@
 .login-content-main{
 
     background-image: url(../img/background.png);
+    background-image: url(../img/logo3.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center left;
     width: 1040px;
     height: 600px;
     margin: 0 auto;
@@ -128,7 +128,7 @@
 
 .login-dnhap{
 
-    background-color: #d0011b;
+    background-color: var(--primary-color);
     box-shadow: 0 1px 1px rgba(0, 0, 0, .09);
     color: #fff;
     font-size: 1.4rem;

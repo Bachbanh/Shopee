@@ -60,8 +60,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets\css\fontawesome-free-6.5.2-web\css\all.css">
     <link rel="stylesheet" href="assets/css/login.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/icon_favicon_1_32.0Wecxv.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/icon_favicon_1_96.wI1aMs.png">
 </head>
 <body>
     <div style="padding-top:30px ;" class="login-wrap">
@@ -135,7 +133,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <div class="login-chuyen-dki">
                                 Bạn mới biết đến PBA?  
 
-                                <a style="color: #EE4D2D; font-size: 1.4rem;font-weight: 500; margin-left: 6px;" href="login.php"> Đăng nhập</a>
+                                <a style="color: var(--primary-color); font-size: 1.4rem;font-weight: 500; margin-left: 6px;" href="login.php"> Đăng nhập</a>
                             </div>
                         </div>
                         <div class="login-content-main-box-end"></div>

@@ -62,8 +62,6 @@ if (isset($_SESSION['user_id'])) {
     <link rel="stylesheet" href="assets\css\fontawesome-free-6.5.2-web\css\all.css">
     <link rel="stylesheet" href="assets/css/login.css">
     <link rel="stylesheet" href="assets/css/categoris.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/icon_favicon_1_32.0Wecxv.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/icon_favicon_1_96.wI1aMs.png">
 </head>
 <body>
     <div class="app">

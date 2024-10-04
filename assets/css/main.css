@@ -75,6 +75,7 @@ body{
     padding: 4px;
     height: 120px;
     background-image: linear-gradient(0, #ff6633, #f53e2d);
+    background-image: linear-gradient(0, #338aff, #552df5);
     z-index: 2;
 }
 
@@ -120,7 +121,7 @@ body{
 .header__navbar-item--gach{
     margin: 0px;
     padding: 0px 9px;
-    border-right: 1px solid #f96c5c;
+    border-right: 1px solid #676ef2;
 }
 
 .header__navbar-item--qr:hover .header__qr{
@@ -722,7 +723,7 @@ body{
 
 
 .header__search-btn-icon:hover{
-    background-color: #fe5643;
+    background-color: #439dfe;
 }
 
 .header__search-option{
